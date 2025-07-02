@@ -1,0 +1,5 @@
+#!bin/bash
+
+#Creating Demo file to practice
+
+echo Hi Thiru
